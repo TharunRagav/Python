@@ -1,4 +1,3 @@
-
 class Solution:
     def firstNonRepeating(self, arr):
         for i in arr:

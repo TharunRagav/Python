@@ -1,4 +1,3 @@
-
 class Solution:
     def countFreq(self, arr):
         freq = {}
